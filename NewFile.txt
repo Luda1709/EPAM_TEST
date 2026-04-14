@@ -1,0 +1,6 @@
+Key points are:
+
+Is the output correct and meaningful and is it the same as what was expected as per the business?
+Are the errors diagnosed correctly?
+Is the GUI correct and consistent with the standard?
+Is the application easy to use?
