@@ -4,7 +4,15 @@ Is the output correct and meaningful and is it the same as what was expected as 
 Are the errors diagnosed correctly?
 Is the GUI correct and consistent with the standard?
 Is the application easy to use?
-Key points are:
+
+
+You have been invited by Liudmyla Bulana to join organization 7514340c-06a8-4ed3-a0cd-cff1dea9be87.
+If you accept the invitation, you will be granted Document GPS access as a user of this organization. If you currently have a paid Document GPS personal subscription, you will not be billed again. Do you agree to join this organization?
+
+
+
+You have been invited by Liudmyla Bulana to join organization 7514340c-06a8-4ed3-a0cd-cff1dea9be87.
+If you accept the invitation, you will be granted Document GPS access as a user of this organization. If you currently have a paid Document GPS personal subscription, you will not be billed again. Do you agree to join this organization?
 
 
 You have been invited by Liudmyla Bulana to join organization 7514340c-06a8-4ed3-a0cd-cff1dea9be87.
