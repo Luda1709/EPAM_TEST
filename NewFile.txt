@@ -5,5 +5,3 @@ Are the errors diagnosed correctly?
 Is the GUI correct and consistent with the standard?
 Is the application easy to use?
 
-QWERTY
-QWERTY
