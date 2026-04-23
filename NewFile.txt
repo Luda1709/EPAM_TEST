@@ -1,1 +1,4 @@
+Why do we need a temp mail address?
+Websites and online services often require a valid  email address to register, access or receive protected content, etc. However, the problem is that some of these websites may use our email addresses to send unwanted messages. Temp mail API
 
+A good way to deal with this is to use a temp email address if you are not sure that this website is absolutely credible and trustworthy. This way, you can keep your  emails away from spam and protect your privacy.
